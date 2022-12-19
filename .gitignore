@@ -1,0 +1,6 @@
+build/
+lib/go-rpi-rgb-led-matrix
+asset/*.ttf
+asset/*.png
+.idea/
+*.iml
